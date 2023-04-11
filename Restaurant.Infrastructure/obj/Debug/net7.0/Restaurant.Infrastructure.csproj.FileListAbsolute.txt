@@ -1,0 +1,12 @@
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Infrastructure/bin/Debug/net7.0/Restaurant.Infrastructure.deps.json
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Infrastructure/bin/Debug/net7.0/Restaurant.Infrastructure.dll
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Infrastructure/bin/Debug/net7.0/Restaurant.Infrastructure.pdb
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Infrastructure/obj/Debug/net7.0/Restaurant.Infrastructure.csproj.AssemblyReference.cache
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Infrastructure/obj/Debug/net7.0/Restaurant.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Infrastructure/obj/Debug/net7.0/Restaurant.Infrastructure.AssemblyInfoInputs.cache
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Infrastructure/obj/Debug/net7.0/Restaurant.Infrastructure.AssemblyInfo.cs
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Infrastructure/obj/Debug/net7.0/Restaurant.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Infrastructure/obj/Debug/net7.0/Restaurant.Infrastructure.dll
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Infrastructure/obj/Debug/net7.0/refint/Restaurant.Infrastructure.dll
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Infrastructure/obj/Debug/net7.0/Restaurant.Infrastructure.pdb
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Infrastructure/obj/Debug/net7.0/ref/Restaurant.Infrastructure.dll

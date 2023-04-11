@@ -1,0 +1,12 @@
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Application/bin/Debug/net7.0/Restaurant.Application.deps.json
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Application/bin/Debug/net7.0/Restaurant.Application.dll
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Application/bin/Debug/net7.0/Restaurant.Application.pdb
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Application/obj/Debug/net7.0/Restaurant.Application.csproj.AssemblyReference.cache
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Application/obj/Debug/net7.0/Restaurant.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Application/obj/Debug/net7.0/Restaurant.Application.AssemblyInfoInputs.cache
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Application/obj/Debug/net7.0/Restaurant.Application.AssemblyInfo.cs
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Application/obj/Debug/net7.0/Restaurant.Application.csproj.CoreCompileInputs.cache
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Application/obj/Debug/net7.0/Restaurant.Application.dll
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Application/obj/Debug/net7.0/refint/Restaurant.Application.dll
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Application/obj/Debug/net7.0/Restaurant.Application.pdb
+/Users/brunaeloisa/Documents/Restaurant/Restaurant.Application/obj/Debug/net7.0/ref/Restaurant.Application.dll
